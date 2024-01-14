@@ -34,7 +34,7 @@ npm install
 To start the project in development mode:
 
 ```bash
-npm start
+npm run dev
 ```
 
 The application should now be running on http://localhost:3000.
